@@ -10,3 +10,7 @@ permit (
     resource
 )
 when { principal in resource.editors };
+
+
+
+// test
