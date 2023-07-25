@@ -4,3 +4,4 @@ permit (
     action,
     resource in Application::"TinyTodo"
 );
+
